@@ -1,0 +1,388 @@
+/* @group Setup */
+
+body {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	text-align:center;
+	margin: 0px;
+}
+
+body.lucida {
+font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+body.helvetica {
+font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+body.courier {
+font-family: "Courier New", Courier, mono;
+}
+body.georgia {
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+body.trebuchet {
+font-family: "Trebuchet MS","Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+#wrapper {
+	width: 711px;
+	border-left: 1px solid #999;
+	border-right: 1px solid #999;
+	margin-left: auto;
+	margin-right: auto;
+	padding:0;
+	margin-bottom:0;
+	padding-bottom:0;
+	text-align:left;
+}
+
+.clear {clear:both}
+
+
+.sectionBreak {
+	width:711px;
+	border-top:2px solid #DDE7F0;
+	clear:both;
+
+}
+
+* html .sectionBreak {
+	height:1px;
+	margin-bottom:-18px;
+}
+
+* #LessonContent {
+	zoom:1;
+
+}
+
+
+
+/* @end */
+
+/* @group Colors */
+
+div#header {
+	background-color: #0A57A4;
+}
+
+div.LessonHeader h1,
+div#header h1 {
+	color: white;
+}
+
+a {
+	color: #0A57A4;
+}
+
+/* @end */
+
+/* @group LessonContent */
+
+#LessonContent {
+	padding:20px 0px 10px 0px;
+	font-size:.8em;
+
+}
+
+#LessonContent p {
+	padding:5px 10px 5px 10px;
+	margin: 0;
+}
+
+
+#LessonContent h1.LessonTitle {
+	color: #0A57A4;
+	font-size:1.4em;
+}
+
+#LessonContent h2.StepTitle {
+	color: #1C1C4E;
+	font-size: 1.2em;
+	margin:0;
+	background-color:#DDE7F0;
+	padding:2px;
+	padding-left:10px;
+	margin-bottom: 10px;
+}
+
+
+
+#LessonContent h1, #LessonContent h3, #LessonContent h4 {
+	padding:2px;
+	padding-left:10px;
+}
+
+* html #LessonContent h1, #LessonContent h2, #LessonContent h3, .filesharing-item {
+	zoom:1;
+}
+
+#LessonContent h3 {
+	color:#1C1C4E;
+	margin:0;
+	font-size:1.1em;
+	font-weight: normal;
+	border-bottom: 2px solid #DDE7F0;
+	border-top: 2px solid #DDE7F0;
+	font-style: oblique;
+
+}
+
+#LessonContent a {
+	text-decoration: none;
+	color:  #0A57A4;
+}
+
+#LessonContent a:hover {
+	color:#FFFFFF;
+	background-color: #0A57A4;
+}
+
+#LessonContent a:hover.image {
+	background-color: inherit;
+}
+
+
+
+* html #LessonContent p {
+
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+
+/* @end */
+
+/* @group Summary */
+
+div.summary {
+	background-color: #e6e6e6;
+	height: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 110%;
+	font-style: italic;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+}
+
+
+/* @end */
+
+
+
+/* @group Lesson Step */
+
+div.lessonStep {
+	margin-bottom: 10px;
+}
+
+div.image {
+	float:right;
+	height: 100%;
+}
+
+div.image img {
+	margin:5px 10px;
+	padding:5px;
+	border: 1px solid #999;
+}
+
+div.image div.caption {
+	margin: 5px;
+	margin-top: 0;
+	text-align: center;
+}
+
+
+#LessonContent div.caption a {
+	text-decoration: underline;
+}
+
+
+
+
+
+* html .lessonStep img {
+	margin:10px;
+}
+
+
+/* @group Top */
+
+
+div.lessonStep.top div.image,
+div.lessonStep.bottom div.image {
+	text-align: center;
+}
+
+div.lessonStep.bottom div.image,
+div.lessonStep.top div.image {
+	float: none;
+}
+
+
+/* @end */
+
+
+
+
+
+
+/* @group Left */
+
+div.lessonStep.left img {
+	float: left;
+}
+
+/* @end */
+
+/* @end */
+
+
+#credits {
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	margin: 0px -10px 0 -10px;
+	text-align:center;
+	font-style: italic;
+	font-size:.8em;
+	background-color:#eee;
+}
+
+
+
+/* @group SideNav */
+
+
+#wrapper.sideLeft {
+	margin-left: 280px;
+}
+
+#wrapper.sideRight {
+	margin-left: 10px;
+}
+
+
+
+
+#wrapper.sideLeft #sideNav {
+	border: 1px solid #999;
+	position:fixed;
+	top:20px;
+	left:1%;
+	width:23%;
+	background-color: #fff;
+}
+
+* html #wrapper.sideLeft #sideNav {
+	width: 250px;
+}
+
+#wrapper.sideRight #sideNav {
+	border: 1px solid #999;
+	position:fixed;
+	top:20px;
+	left:740px;
+	width:250px;
+	background-color: #fff;
+	
+}
+
+#sideNav h2 {
+	border-bottom: 1px solid gray;
+	margin: 0;
+	padding: 5px;
+	color: #0A57A4;
+}
+
+
+
+* html #wrapper.sideRight #sideNav {
+	position:absolute;
+}
+
+* html #wrapper.sideLeft #sideNav {
+	position: absolute;
+}
+
+#sideNav a {
+	font-size: 1.2em;
+	color:#333;
+}
+
+#sideNav ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+}
+
+#sideNav li {
+	padding-top:5px;
+	padding-right:5px;
+	font-size:.8em;
+}
+
+
+/* @end */
+
+/* @group TOC */
+
+#header {
+	text-align: center;
+	padding: 10px;
+	border-bottom: 1px solid gray;
+}
+
+#header h1 {
+	color: #0A57A4;
+	margin: 0;
+}
+
+div#TOC {
+	border-bottom: 1px solid gray;
+}
+
+div.section {
+	font-size: .9em;
+	padding: 5px 10px 5px 10px;
+}
+
+div.section ul.lessons {
+	margin-left: 0px;
+	padding-left: 30px;
+}
+
+div.section ul.lessons li {
+	padding: 5px;
+}
+
+div.section ul.lessons li.lesson a {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+div.description p {
+	font-style: italic;
+	margin: 5px;
+	margin-left: 10px;
+}
+
+/* @end */
+
+/* @group Lesson Navigation */
+
+div#lessonNavigation {
+	border-top: 1px solid gray;
+	padding: 10px;
+}
+
+div#lessonNavigation table td {
+	width: 33%;
+}
+
+div#lessonNavigation table td.TOC {
+	text-align: center;
+}
+
+/* @end */

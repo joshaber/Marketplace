@@ -1,0 +1,60 @@
+/* Constructive */
+
+body {
+    font-size: 9pt;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    line-height: 1.3;
+    background-color: #eaeaea;
+    color: #888;
+}
+
+h2 {
+    color: black;
+    font-size: 15pt;
+    padding: 10px;
+    margin: 0px 0px 10px;
+    text-shadow: #ffffff 0px 1px 0px;
+	font-weight: bold;
+	border-bottom: 1px dashed #727272;
+}
+
+div#userbody {
+    padding: 10px;
+    font-size: 11pt;
+    color: black;
+}
+
+
+/* Destructive -- hide all of Craiglists' clutter */
+
+div.bchead {
+    display: none !important;
+}
+
+div#flags {
+    display: none !important;
+}
+
+div#tsb {
+    display: none !important;
+}
+
+ul.clfooter {
+    display: none !important;
+}
+
+script {
+    display: none !important;
+}
+
+hr { 
+    display: none !important; 
+}
+
+sup {
+    display: none !important;
+}
+
+img {
+    /*max-width: 200px;  arbitrary much? */
+}

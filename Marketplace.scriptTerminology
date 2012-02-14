@@ -1,0 +1,10 @@
+{
+	Name = "Marketplace commands";
+	Description = "Marketplace commands";
+	Commands = {
+		License = {
+			Name = License;
+			Description = "License Marketplace";
+		};
+	};
+}

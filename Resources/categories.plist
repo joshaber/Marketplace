@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Community</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>ccc</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Activities</key>
+			<string>act</string>
+			<key>Artists</key>
+			<string>ats</string>
+			<key>Childcare</key>
+			<string>kid</string>
+			<key>Groups</key>
+			<string>grp</string>
+			<key>Events</key>
+			<string>cal</string>
+			<key>Local News</key>
+			<string>vnn</string>
+			<key>Lost &amp; Found</key>
+			<string>laf</string>
+			<key>Musicians</key>
+			<string>muc</string>
+			<key>Pets</key>
+			<string>pet</string>
+			<key>Politics</key>
+			<string>pol</string>
+			<key>Rideshare</key>
+			<string>rid</string>
+			<key>Volunteers</key>
+			<string>vol</string>
+		</dict>
+	</dict>
+	<key>Events</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>eee</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Classes</key>
+			<string>cls</string>
+			<key>Events</key>
+			<string>eve</string>
+		</dict>
+	</dict>
+	<key>Gigs</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>ggg</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Adult</key>
+			<string>adg</string>
+			<key>Computer</key>
+			<string>cpg</string>
+			<key>Creative</key>
+			<string>crg</string>
+			<key>Crew</key>
+			<string>cwg</string>
+			<key>Domestic</key>
+			<string>dmg</string>
+			<key>Event</key>
+			<string>evg</string>
+			<key>Labor</key>
+			<string>lbg</string>
+			<key>Talent</key>
+			<string>tlg</string>
+			<key>Writing</key>
+			<string>wrg</string>
+		</dict>
+	</dict>
+	<key>Housing</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>hhh</string>
+		<key>subcategories</key>
+		<dict>
+			<key>All Housing Wanted</key>
+			<string>hsw</string>
+			<key>Appartments Wanted</key>
+			<string>hou</string>
+			<key>Housing/Appartments for Rent</key>
+			<string>apa</string>
+			<key>Housing Swap</key>
+			<string>swp</string>
+			<key>Office &amp; Commercial</key>
+			<string>off</string>
+			<key>Parking &amp; Storage</key>
+			<string>prk</string>
+			<key>All Real Estate</key>
+			<string>rea</string>
+			<key>Real Estate - by Broker</key>
+			<string>reb</string>
+			<key>Real Estate - by Owner</key>
+			<string>reo</string>
+			<key>Real Estate Wanted</key>
+			<string>rew</string>
+			<key>Rooms &amp; Shares</key>
+			<string>roo</string>
+			<key>Rooms Wanted</key>
+			<string>sha</string>
+			<key>Sublet/Temp Wanted</key>
+			<string>sbw</string>
+			<key>Sublets &amp; Temporary</key>
+			<string>sub</string>
+			<key>Vacation Rentals</key>
+			<string>vac</string>
+		</dict>
+	</dict>
+	<key>Jobs</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>jjj</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Accounting &amp; Finance</key>
+			<string>acc</string>
+			<key>Administrative/Office</key>
+			<string>ofc</string>
+			<key>Art/Media/Design</key>
+			<string>med</string>
+			<key>Business</key>
+			<string>bus</string>
+			<key>Customer Service</key>
+			<string>csr</string>
+			<key>Education</key>
+			<string>edu</string>
+			<key>Engineering</key>
+			<string>egr</string>
+			<key>Etc.</key>
+			<string>etc</string>
+			<key>Food/Beverage/Hospitality</key>
+			<string>fbh</string>
+			<key>General Labor</key>
+			<string>lab</string>
+			<key>Government</key>
+			<string>gov</string>
+			<key>Healthcare</key>
+			<string>hea</string>
+			<key>Human Resources</key>
+			<string>hum</string>
+			<key>Internet Engineering</key>
+			<string>eng</string>
+			<key>Legal</key>
+			<string>lgl</string>
+			<key>Manufactoring</key>
+			<string>mnu</string>
+			<key>Marketing</key>
+			<string>mar</string>
+			<key>Media</key>
+			<string>med</string>
+			<key>Non-Profit</key>
+			<string>npo</string>
+			<key>Real Estate</key>
+			<string>rej</string>
+			<key>Retail/Food/Hospitality</key>
+			<string>rfh</string>
+			<key>Retail/Wholesale</key>
+			<string>ret</string>
+			<key>Sales</key>
+			<string>sls</string>
+			<key>Salon/Spa/Fitness</key>
+			<string>spa</string>
+			<key>Science</key>
+			<string>sci</string>
+			<key>Security</key>
+			<string>sec</string>
+			<key>Skilled Trades</key>
+			<string>trd</string>
+			<key>Software</key>
+			<string>sof</string>
+			<key>Systems/Networking</key>
+			<string>sad</string>
+			<key>Tech Support</key>
+			<string>tch</string>
+			<key>Transport</key>
+			<string>trp</string>
+			<key>TV/Video/Radio</key>
+			<string>tfr</string>
+			<key>Web Design</key>
+			<string>web</string>
+			<key>Writing</key>
+			<string>wri</string>
+		</dict>
+	</dict>
+	<key>Personals</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>ppp</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Casual Encounters</key>
+			<string>cas</string>
+			<key>Men Seeking Men</key>
+			<string>m4m</string>
+			<key>Men Seeking Women</key>
+			<string>m4w</string>
+			<key>Misc. Romance</key>
+			<string>msr</string>
+			<key>Missed Connections</key>
+			<string>mis</string>
+			<key>Rants and Raves</key>
+			<string>rnr</string>
+			<key>Strictly Platonic</key>
+			<string>stp</string>
+			<key>Women Seeking Men</key>
+			<string>w4m</string>
+			<key>Women Seeking Women</key>
+			<string>w4w</string>
+		</dict>
+	</dict>
+	<key>Resumes</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>res</string>
+		<key>subcategories</key>
+		<dict/>
+	</dict>
+	<key>For Sale</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>sss</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Antiques</key>
+			<string>atq</string>
+			<key>Appliances</key>
+			<string>app</string>
+			<key>Arts &amp; Crafts</key>
+			<string>art</string>
+			<key>Auto Parts</key>
+			<string>pts</string>
+			<key>Baby &amp; Kid Stuff</key>
+			<string>bab</string>
+			<key>Barter</key>
+			<string>bar</string>
+			<key>Beauty &amp; Health</key>
+			<string>hab</string>
+			<key>Bicycles</key>
+			<string>bik</string>
+			<key>Boats</key>
+			<string>boa</string>
+			<key>Books</key>
+			<string>bks</string>
+			<key>Business</key>
+			<string>bfs</string>
+			<key>Cars &amp; Trucks - All</key>
+			<string>cta</string>
+			<key>Cars &amp; Trucks - by Dealer</key>
+			<string>ctd</string>
+			<key>Cars &amp; Trucks - by Owner</key>
+			<string>cto</string>
+			<key>CDs / DVDs / VHS</key>
+			<string>emd</string>
+			<key>Clothing</key>
+			<string>clo</string>
+			<key>Cell Phones &amp; Accessories</key>
+			<string>mob</string>
+			<key>Collectibles</key>
+			<string>clt</string>
+			<key>Computers &amp; Technology</key>
+			<string>sys</string>
+			<key>Electronics</key>
+			<string>ele</string>
+			<key>Farm &amp; Garden</key>
+			<string>grd</string>
+			<key>Free Stuff</key>
+			<string>zip</string>
+			<key>Furniture - All</key>
+			<string>fua</string>
+			<key>Furniture - by Dealer</key>
+			<string>fud</string>
+			<key>Furniture - by Owner</key>
+			<string>fuo</string>
+			<key>Games &amp; Toys</key>
+			<string>tag</string>
+			<key>Garage Sales</key>
+			<string>gms</string>
+			<key>General</key>
+			<string>for</string>
+			<key>Household</key>
+			<string>hsh</string>
+			<key>Items Wanted</key>
+			<string>wan</string>
+			<key>Jewelry</key>
+			<string>jwl</string>
+			<key>Materials</key>
+			<string>mat</string>
+			<key>Motorcycles/Scooters</key>
+			<string>mcy</string>
+			<key>Musical Instruments</key>
+			<string>msg</string>
+			<key>Photo/Video</key>
+			<string>pho</string>
+			<key>Recreational Vehicles</key>
+			<string>rvs</string>
+			<key>Sporting Goods</key>
+			<string>spo</string>
+			<key>Tickets</key>
+			<string>tix</string>
+			<key>Tools</key>
+			<string>tls</string>
+			<key>Video Games</key>
+			<string>vgm</string>
+		</dict>
+	</dict>
+	<key>Services</key>
+	<dict>
+		<key>urlAttribute</key>
+		<string>bbb</string>
+		<key>subcategories</key>
+		<dict>
+			<key>Adult</key>
+			<string>ads</string>
+			<key>Automotive</key>
+			<string>aos</string>
+			<key>Beauty</key>
+			<string>bts</string>
+			<key>Computer</key>
+			<string>cps</string>
+			<key>Creative</key>
+			<string>crs</string>
+			<key>Event</key>
+			<string>evs</string>
+			<key>Farm &amp; Garden</key>
+			<string>fgs</string>
+			<key>Financial</key>
+			<string>fns</string>
+			<key>Household</key>
+			<string>hss</string>
+			<key>Labor &amp; Moving</key>
+			<string>lbs</string>
+			<key>Legal</key>
+			<string>lgs</string>
+			<key>Lessons &amp; Tutoring</key>
+			<string>lss</string>
+			<key>Pets</key>
+			<string>pas</string>
+			<key>Real Estate</key>
+			<string>rts</string>
+			<key>Skilled Trade</key>
+			<string>sks</string>
+			<key>Small Business Ads</key>
+			<string>biz</string>
+			<key>Therapeutic</key>
+			<string>thp</string>
+			<key>Travel/Vacation</key>
+			<string>trv</string>
+			<key>Writing/Editing/Translation</key>
+			<string>wet</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

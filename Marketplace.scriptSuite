@@ -1,0 +1,11 @@
+{
+	Name = "Marketplace commands";
+	AppleEventCode = MrKp;
+	Commands = {
+		License = {
+			CommandClass = URLLicenseCommand;
+			AppleEventCode = GURL;
+			AppleEventClassCode = GURL;
+		};
+	};
+}

@@ -1,0 +1,170 @@
+body {
+	background-color: #dde5ef;
+	
+	text-shadow: #ffffff 0px 1px 0px;
+	-webkit-text-shadow: #ffffff 0px 1px 0px;
+	-moz-text-shadow: #ffffff 0px 1px 0px;
+	font: 10pt Helvetica, Arial;
+}
+
+#content {
+	background-color: #fff;
+	
+	width: 700px;
+	height: 100%;
+	margin-top: 60px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	
+	padding: 20px;
+}
+
+#head {
+	background: url(images/logo.jpg) no-repeat center;
+	margin: 0;
+	padding: 0;
+	height: 172px;
+}
+
+#main {
+	width:  500px;
+	list-style-image: url(images/star-dark.jpg);
+}
+
+#main a img {
+	border-style: none;
+	float: left;
+}
+
+#main h2 {
+	font-size: 1.5em;
+	background-color: #dde5ef;
+	color: #303030;
+	padding: 5px;
+	border: 1px solid #dfdfdf;
+	font-variant: small-caps;
+}
+
+#main li {
+	margin-bottom: 5px;
+	padding: 7px;
+}
+
+#main p.feature-title {
+	font-size: 1.4em;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+#main p.feature-description {
+	font-size: 1em;
+	margin: 0;
+	padding: 0;
+}
+
+#main img {
+	padding: 5px;
+}
+
+#main a {
+	text-decoration: none;
+	border-bottom: 2px dotted #000;
+	color: #000;
+}
+
+#main a:hover {
+	text-decoration: none;
+	border-bottom: 2px solid #000;
+	color: #000;
+}
+
+#right {
+	padding: 5px;
+	float: right;
+	
+	background-color: #e8eaef;
+}
+
+#right p {
+}
+
+#right a {
+	text-decoration: none;
+	color: #000;
+}
+
+#right img {
+	margin-right: 10px;
+}
+
+#right:hover {
+	background-color: #e8eaef;
+}
+
+#right h1 {
+	font-size: 1.4em;
+	font-variant: small-caps;
+}
+
+#right a:hover {
+	border-bottom: 2px solid #000;
+}
+
+#bottom {
+	margin: auto;
+}
+
+#bottom a {
+	text-decoration: none;
+	color: #000;
+}
+
+#bottom a:hover {
+	text-decoration: none;
+	border-bottom: 1px solid #000;
+	color: #000;
+}
+
+#bottom p {
+	text-align: center;
+}
+
+span.price {
+	color: #175f86;
+	margin-right: 10px;
+}
+
+form table {
+	margin-left: 20px;
+}
+
+form table td {
+	padding-right: 5px;
+}
+
+form.buy_form table td {
+	font-size: 1.5em;
+}
+
+form.buy_form input {
+	margin: 10px;
+}
+
+form.buy_form td {
+	vertical-align: 0;
+}
+
+form.buy_form td.price_column {
+	width: 125px;
+}
+
+p.description {
+	font-size: 1em;
+}
+

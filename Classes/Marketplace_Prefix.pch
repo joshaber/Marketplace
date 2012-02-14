@@ -1,0 +1,13 @@
+//
+// Prefix header for all source files of the 'Marketplace' target in the 'Marketplace' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+	#import <ExceptionHandling/ExceptionHandling.h>
+
+    #define NSScreenSaverDidStopNotification @"com.apple.screensaver.didstop"
+    #define MPAppVersion [[[NSBundle mainBundle] infoDictionary] objectForKey:(id) kCFBundleVersionKey]
+
+    #define JAEmptyStringIfNil(a) (a == nil ? @"" : a)
+#endif

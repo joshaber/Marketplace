@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Marketplace Update Feed</title>
+    <link>http://www.marketplacemac.com/download/sparkle.xml</link>
+    <description>Marketplace Sparkle Update Feed</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <pubDate>Thu, 04 Mar 2010 09:24:54 +0900</pubDate>
+    <lastBuildDate>Thu, 04 Mar 2010 09:24:54 +0900</lastBuildDate>
+    <atom:link href="http://www.marketplacemac.com/download/sparkle.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Version 1.2.6</title>
+      <pubDate>Thu, 04 Mar 2010 09:24:54 +0900</pubDate>
+      <enclosure url="http://www.marketplacemac.com/download/Marketplace.zip" length="1161793" type="application/octet-stream" sparkle:version="1.2.6"/>
+      <guid isPermaLink="false"></guid>
+ <sparkle:releaseNotesLink>http://www.marketplacemac.com/download/release_notes.html</sparkle:releaseNotesLink>
+    </item>
+  </channel>
+</rss>
