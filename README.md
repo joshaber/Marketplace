@@ -1,6 +1,8 @@
 # Wat?
 [Marketplace](http://www.marketplacemac.com/) is Craigslist without the ugly. Search across multiple regions and filter your results.
 
+![](http://www.marketplacemac.com/screenshots/screen1.jpg)
+
 It's the first paid Mac app I ever released.
 
 Unfortunately, I don't have the time to maintain and support it anymore. *But* there's still a group of people using the app, and goodness knows, Craigslist still has the ugly.
